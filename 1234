@@ -1,3 +1,4 @@
+  proxies：
   - {name: 【FASTQ_A】HK/香港_1, server: a1.ap.fastqvpn.com, port: 29980, username: 461903438951743488, password: 4ec2cd54-97d1-4908-8e9b-066ec100f953, type: http, tls: true, skip-cert-verify: false}
   - {name: 【FASTQ_A】HK/香港_2, server: a2.ap.fastqvpn.com, port: 29980, username: 461903438951743488, password: 4ec2cd54-97d1-4908-8e9b-066ec100f953, type: http, tls: true, skip-cert-verify: false}
   - {name: 【FASTQ_A】HK/香港_3, server: a3.ap.fastqvpn.com, port: 29980, username: 461903438951743488, password: 4ec2cd54-97d1-4908-8e9b-066ec100f953, type: http, tls: true, skip-cert-verify: false}
